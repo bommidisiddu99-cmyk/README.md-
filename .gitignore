@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# SQLite temporary files and logs
+*.db-journal
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
